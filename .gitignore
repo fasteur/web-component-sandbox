@@ -4,6 +4,5 @@ node_modules/
 # Ignorer le fichier package-lock.json
 package-lock.json
 
-# Ignorer tous les fichiers dans le dossier dist, sauf index.html
+# Ignorer tous les fichiers dans le dossier dist
 dist/*
-!dist/index.html
